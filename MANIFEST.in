@@ -1,0 +1,4 @@
+include requirements.txt
+
+recursive-include flaskr/templates/*
+recursive-include flaskr/static/*
