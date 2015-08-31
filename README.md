@@ -37,9 +37,11 @@
 
 - [fabric][], required in local.
 - [platter][], required in build machine.
+- [fabric bearychat][], optional, used for deploy notification.
 
 [fabric]: http://fabric.readthedocs.org
 [platter]: http://platter.pocoo.org/dev/
+[fabric bearychat]: https://github.com/bcho/fabric-bearychat
 
 
 ## Fabric Commands
